@@ -1,0 +1,8 @@
+server:
+  port: 6061
+
+spring:
+  application:
+    name: smart-campus-admin
+  profiles:
+    include: common
